@@ -12,5 +12,10 @@ export class RecipesList {
       'Stupid plastic food',
       'https://m.media-amazon.com/images/I/81tGII2MOmL.jpg'
     ),
+    new Recipe(
+      'Plastic Food',
+      'Stupid plastic food',
+      'https://m.media-amazon.com/images/I/81tGII2MOmL.jpg'
+    ),
   ];
 }
